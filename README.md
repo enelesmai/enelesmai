@@ -1,6 +1,6 @@
 ## Hi there! 👋, My name is Selene Flores and I'm a:
 
-  * Fullstack developer 👩‍💻
+  * Fullstack developer 👩‍💻💖
   * Keen Learner 🤓
   * Moon Lover 🌛
 
