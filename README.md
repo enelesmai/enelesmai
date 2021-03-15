@@ -20,7 +20,7 @@ I'm a software engineer with +8 years of software development experience using m
 
 - ⚡ Fun fact: Biking it's been hurting me all my life, but I love it 🚴‍♀️
 
-### Available for challenging remote opportunities! Please contact me if you are interested on my profile.
+### ✨ Available for challenging remote opportunities! Please contact me if you are interested on my profile.
 
 - 📫 How to reach me: 
     - LinkedIn: [Selene Flores](https://www.linkedin.com/in/xochitlselene/)
