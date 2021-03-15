@@ -7,7 +7,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enelesmai&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enelesmai&layout=compact&hide=Java,PowerShell&show_icons=true&theme=radical)
 
-I'm a software engineer with +8 years of software development experience using multiple languages and tools as Ruby on Rails, React, NodeJS, .NET framework, Ruby, C#, Angular, Vanilla Javascript, etc. Applying Object Oriented Programming, Scrum and direct communication with customers. I describe myself as a goal and team oriented worker.
+I'm a software engineer with 8+ years of software development experience using multiple languages and tools as Ruby on Rails, React, NodeJS, .NET framework, Ruby, C#, Angular, Vanilla Javascript, etc. I describe myself as a goal and team oriented worker.
 
 - 🔭 I’m currently working with React applications, using AWS amplify and CI.
 
