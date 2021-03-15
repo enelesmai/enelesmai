@@ -15,16 +15,17 @@ I'm a software engineer with +8 years of software development experience using m
 
 - 💬 Please feel free to ask me about everything you want, if I don't know about something I probably know someone who knows more than me😉. I'm always happy to know new people from all around the world 😃🌎
 
-- [Women Who Code Colima Director](https://www.meetup.com/es-ES/codificadas/) ❤️, I love communities and spaces for women to expand and share knowledge about programming and software engineering. ❤️👌
+- [Women Who Code Colima Director](https://www.meetup.com/es-ES/codificadas/) 💻, 
+  I love communities and spaces for women to expand and share knowledge about programming and software engineering. ❤️👌
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Biking it's been hurting me all my life, but I love it 🚴‍♀️
 
 ### Available for challenging remote opportunities! Please contact me if you are interested on my profile.
 
 - 📫 How to reach me: 
     - LinkedIn: [Selene Flores](https://www.linkedin.com/in/xochitlselene/)
     - Twitter: [enelesmai](https://twitter.com/enelesmai)
-    - Portfolio: [portfolio](https://enelesmai.github.io/)
+    - [My Portfolio](https://enelesmai.github.io/)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=enelesmai.enelesmai) [![Github](https://img.shields.io/github/followers/enelesmai?label=Follow&style=social)](https://github.com/enelesmai)
 
