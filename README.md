@@ -9,7 +9,7 @@
 
 I'm a software engineer with 8+ years of software development experience using multiple languages and tools as Ruby on Rails, React, NodeJS, .NET framework, Ruby, C#, Angular, Vanilla Javascript, etc. I describe myself as a goal and team oriented worker.
 
-- 🔭 I’m currently working with React applications, using AWS amplify and CI.
+- 🔭 I’m currently working in the development of React applications, as a collboration with **Strata Digital** startup, using AWS amplify and CI.
 
 - 🌱 I’m always learning something new, at the current time I'm also developing a personal project with NodeJS and Express for my familiar businness.
 
