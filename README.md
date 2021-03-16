@@ -1,4 +1,4 @@
-## Hi there! 👋, My name is Selene and I'm a:
+## Hello! 👋, My name is Selene Flores and I'm a:
 
   * Fullstack developer 👩‍💻💖
   * Keen Learner 🤓
