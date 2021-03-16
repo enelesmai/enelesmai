@@ -7,11 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enelesmai&layout=compact&hide=Java,PowerShell&show_icons=true&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enelesmai&show_icons=true&theme=radical)
 
-I'm a software engineer with 8+ years of software development experience using multiple languages and tools as Ruby on Rails, React, NodeJS, .NET framework, Ruby, C#, Angular, Vanilla Javascript, etc. I describe myself as a goal and team oriented worker.
+I'm a software engineer with 8+ years of software development experience using multiple languages and tools as `Ruby on Rails`, `React`, `NodeJS`, `.NET framework`, `Ruby`, `C#`, `Angular`, `Vanilla Javascript`, etc. I describe myself as a goal and team oriented worker.
 
-- 🔭 I’m currently working in the development of React applications, using AWS amplify as backend, Minimal UI kit for React and [OpenStreeMap](https://www.openstreetmap.org/#map=11/19.1711/-103.7000)
+- 🔭 I’m currently working in the development of `React` applications, using `AWS amplify` as backend, [Material UI](https://material-ui.com/) for React and [OpenStreeMap](https://www.openstreetmap.org/#map=11/19.1711/-103.7000)
 
-- 🌱 I’m always learning something new, at the current time I'm also developing a personal project with NodeJS and Express for my familiar businness.
+- 🌱 I’m always learning something new, at the current time I'm also building a personal project with `NodeJS` and `Express` for my familiar businness.
 
 - 💬 Please feel free to ask me about everything you want, if I don't know about something I probably know someone who knows more than me😉. I'm always happy to know new people from all around the world 😃🌎
 
