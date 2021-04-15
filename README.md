@@ -9,7 +9,7 @@
 
 I'm a software engineer with 8+ years of software development experience using multiple languages and tools as `Ruby on Rails`, `React`, `NodeJS`, `.NET framework`, `Ruby`, `C#`, `Angular`, `Vanilla Javascript`, etc. I describe myself as a goal and team oriented worker.
 
-- 🔭 I’m currently working in the development of `React` applications, using `AWS amplify` as backend, [Material UI](https://material-ui.com/) for React and [OpenStreeMap](https://www.openstreetmap.org/#map=11/19.1711/-103.7000)
+- 🔭 I’m currently working in the development of `React` applications, using `AWS amplify`, [Material UI](https://material-ui.com/) for React and [OpenStreeMap](https://www.openstreetmap.org/#map=11/19.1711/-103.7000)
 
 - 🌱 I’m always learning something new, at the current time I'm also building a personal project with `NodeJS` and `Express` for my familiar businness.
 
@@ -20,7 +20,7 @@ I'm a software engineer with 8+ years of software development experience using m
 
 - ⚡ Fun fact: Biking it's been hurting me all my life, but I love it 🚴‍♀️
 
-### ✨ Available for challenging remote opportunities! Please contact me if you are interested on my profile.
+### ✨ Available for challenging remote projects! Please contact me if you are interested on my profile.
 
 - 📫 How to reach me: 
     - LinkedIn: [Selene Flores](https://www.linkedin.com/in/xochitlselene/)
