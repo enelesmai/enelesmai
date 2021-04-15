@@ -7,9 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enelesmai&layout=compact&hide=Java,PowerShell&show_icons=true&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enelesmai&show_icons=true&theme=radical)
 
-I'm a software engineer with 8+ years of software development experience using multiple languages and frameworks as `Ruby on Rails`, `React`, `NodeJS`, `.NET framework`, `Ruby`, `C#`, `Angular` and `Vanilla Javascript`. I describe myself as a goal and team oriented worker.
+I'm a software engineer with 8+ years of software development experience using multiple languages and frameworks as `C#`, `Ruby`, `Javascript (Vanilla)`, `SQL`, `Ruby on Rails`, `.NET framework`, `Angular`, `React` and `NodeJS`. I describe myself as a goal and team oriented worker.
 
-- 🔭 I’m currently working in the development of `React` applications, using `AWS amplify`, [Material UI](https://material-ui.com/) for React, [ChartJS](https://www.chartjs.org/docs/latest/samples/bar/vertical.html), [OpenStreeMap](https://www.openstreetmap.org/#map=11/19.1711/-103.7000), and more tools!.
+- Now learning and developing with `Elixir` and `Phoenix` framework ;)
+
+- 🔭 I also develop `React` applications, using `AWS amplify`, [Material UI](https://material-ui.com/) for React, [ChartJS](https://www.chartjs.org/docs/latest/samples/bar/vertical.html), [OpenStreeMap](https://www.openstreetmap.org/#map=11/19.1711/-103.7000), and more tools!.
 
 - 🌱 I’m always learning something new, at the current time I'm also building a personal project with `NodeJS` and `Express` for my familiar businness.
 
