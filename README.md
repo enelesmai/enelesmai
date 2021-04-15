@@ -9,11 +9,11 @@
 
 I'm a software engineer with 8+ years of software development experience using multiple languages and frameworks as `C#`, `Ruby`, `Javascript (Vanilla)`, `SQL`, `Ruby on Rails`, `.NET framework`, `Angular`, `React` and `NodeJS`. I describe myself as a goal and team oriented worker.
 
-- Now learning and developing with `Elixir` and `Phoenix` framework ;)
+- Now learning and developing with `Elixir` and `Phoenix` framework 🔥
 
 - 🔭 I also develop `React` applications, using `AWS amplify`, [Material UI](https://material-ui.com/) for React, [ChartJS](https://www.chartjs.org/docs/latest/samples/bar/vertical.html), [OpenStreeMap](https://www.openstreetmap.org/#map=11/19.1711/-103.7000), and more tools!.
 
-- 🌱 I’m always learning something new, at the current time I'm also building a personal project with `NodeJS` and `Express` for my familiar businness.
+- 🌱 I’m always learning something new, at the current time I'm doing refactoring on a personal project with `NodeJS` and `Express` for my familiar businness.
 
 - 💬 Please feel free to ask me about everything you want, if I don't know about something I probably know someone who knows more than me😉. I'm always happy to know new people from all around the world 😃🌎
 
