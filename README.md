@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enelesmai&layout=compact&hide=Java,PowerShell&show_icons=true&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enelesmai&show_icons=true&theme=radical)
 
-I'm a software engineer with 8+ years of software development experience using multiple languages and frameworks as `C#`, `Ruby`, `Javascript (Vanilla)`, `SQL`, `Ruby on Rails`, `.NET framework`, `Angular`, `React` and `NodeJS`. I describe myself as a goal and team oriented worker.
+I'm a software engineer with 9+ years of software development experience using multiple languages and frameworks as `C#`, `Ruby`, `Javascript (Vanilla)`, `SQL`, `Ruby on Rails`, `.NET framework`, `Angular`, `React` and `NodeJS`. I describe myself as a goal and team oriented worker.
 
 - Now learning and developing with `Elixir` and `Phoenix` framework 🔥
 
