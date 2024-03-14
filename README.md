@@ -1,6 +1,6 @@
 ## Hello! 👋, my name is Selene Flores and I'm:
 
-  * Fullstack developer 👩‍💻💖, Keen Learner 🤓 && Moon Lover 🌛
+  * Fullstack developer 👩‍💻💖 && Keen Learner 🤓 && Moon Lover 🌛
 
 I'm a software engineer with 10+ years of experience in multiple languages and frameworks as `C#`, `Ruby`, `Elixir`, `Javascript (Vanilla)`, `SQL`, `Ruby on Rails`, `.NET framework`, `Angular`, `React`, etc. I describe myself as a goal and team oriented worker.
 
