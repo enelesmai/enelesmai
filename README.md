@@ -5,8 +5,8 @@
 I'm a software engineer with 10+ years of experience in multiple languages and frameworks as `C#`, `Ruby`, `Elixir`, `Javascript (Vanilla)`, `SQL`, `Ruby on Rails`, `.NET framework`, `Angular`, `React`, etc. I describe myself as a goal and team oriented worker.
 
 - 🌱 I’m always learning something new, at the current time I'm doing refactoring on a personal project with `NodeJS` and `Express` for my familiar business.
-- Interested in start making contributions in data projects with `Python` (It's never enough for me)  
-- [Women Who Code Colima Legacy-Leader](https://www.meetup.com/es-ES/codificadas/) 💻, 
+- 🕵️‍♀️ Interested in start making contributions in data projects with `Python` (It's never enough for me)  
+- 💻💗[Women Who Code Colima Legacy-Leader](https://womenwhocode.com/network/colima), 
   I love communities and spaces for women to expand and share knowledge about programming and software engineering. ❤️👌
 
 ### ✨ Available for challenging remote projects!
