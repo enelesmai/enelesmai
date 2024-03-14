@@ -12,7 +12,6 @@ I'm a software engineer with 10+ years of experience in multiple languages and f
 ### ✨ Available for challenging remote projects!
 
 - 💬 Contact me if you have something to say 😉. I'm always happy to know new people from all around the world 😃🌎
-- 📫 How to reach me: 
     - LinkedIn: [Selene Flores](https://www.linkedin.com/in/xochitlselene/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enelesmai&layout=compact&hide=Java,PowerShell&show_icons=true&theme=radical)
