@@ -17,12 +17,10 @@ I'm a software engineer with 10+ years of experience in multiple languages and f
     - LinkedIn: [Selene Flores](https://www.linkedin.com/in/xochitlselene/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enelesmai&layout=compact&hide=Java,PowerShell&show_icons=true&theme=panda&card_width=320)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enelesmai&show_icons=true&theme=panda&card_width=320)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enelesmai&layout=compact&hide=Java,PowerShell&show_icons=true&theme=panda)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enelesmai&show_icons=true&theme=panda)
 
-<p align="center">
 ![](https://visitor-badge.laobi.icu/badge?page_id=enelesmai.enelesmai) [![Github](https://img.shields.io/github/followers/enelesmai?label=Follow&style=social)](https://github.com/enelesmai)
-</p>
 
 <!--
 **enelesmai/enelesmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
