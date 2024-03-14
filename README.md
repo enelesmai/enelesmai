@@ -17,8 +17,8 @@ I'm a software engineer with 10+ years of experience in multiple languages and f
     - LinkedIn: [Selene Flores](https://www.linkedin.com/in/xochitlselene/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enelesmai&layout=compact&hide=Java,PowerShell&show_icons=true&theme=panda&hide_title=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enelesmai&show_icons=true&theme=panda&hide_title=true&hide_rank=true&card_width=270)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enelesmai&layout=compact&hide=Java,PowerShell&show_icons=true&theme=panda&hide_title=true&card_width=270)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enelesmai&show_icons=true&theme=panda&hide_title=true&hide_rank=false&card_width=270)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=enelesmai.enelesmai) [![Github](https://img.shields.io/github/followers/enelesmai?label=Follow&style=social)](https://github.com/enelesmai)
 
