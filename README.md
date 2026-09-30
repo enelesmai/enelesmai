@@ -17,7 +17,7 @@ Currently focused on AWS, Databricks, AI/ML, and modern full-stack development.
 I believe software engineering is a continuous learning process. I enjoy solving problems, simplifying complex concepts, documenting what I learn, and sharing knowledge with others.
 
 ### 💜 Community
-Former Women Who Code Colima Legacy Leader.
+Former [Women Who Code Colima (💜 codificadas)](https://github.com/codificadas) Legacy Leader.
 I care about creating spaces where women can learn, grow, and share knowledge in software engineering.
 
 ### 🌎 Find me
